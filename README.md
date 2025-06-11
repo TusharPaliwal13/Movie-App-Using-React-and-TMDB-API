@@ -1,4 +1,4 @@
-# 🎬 MovieSearchX
+# 🎬 MovieSearch
 
 A sleek and minimal React-based movie search app that uses the [TMDB API](https://developer.themoviedb.org/) to fetch movie data and [Appwrite](https://appwrite.io/) to track how many times a search term has been used.
 
