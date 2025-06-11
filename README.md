@@ -12,7 +12,8 @@ A sleek and minimal React-based movie search app that uses the [TMDB API](https:
 
 ## 🖼️ Preview
 
-![Uploading Screenshot 2025-06-11 101647.png…]()
+![Screenshot 2025-06-11 101647](https://github.com/user-attachments/assets/fc0ce49e-14e1-4a5d-b5c1-4cd51aacc5f6)
+
 
 
 ## 🛠️ Tech Stack
