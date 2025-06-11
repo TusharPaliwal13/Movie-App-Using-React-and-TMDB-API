@@ -1,12 +1,29 @@
-# React + Vite
+# 🎬 MovieSearchX
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and minimal React-based movie search app that uses the [TMDB API](https://developer.themoviedb.org/) to fetch movie data and [Appwrite](https://appwrite.io/) to track how many times a search term has been used.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 Real-time movie search using TMDB
+- 📊 Search term tracking using Appwrite (with count and poster)
+- 🎨 Responsive and clean UI
+- 🧠 Uses environment variables for security
+- ⚡ Built with Vite for fast performance
 
-## Expanding the ESLint configuration
+## 🖼️ Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Uploading Screenshot 2025-06-11 101647.png…]()
+
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Vite
+- **Backend-as-a-Service:** Appwrite
+- **API:** TMDB (The Movie Database)
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/movie-app.git
+cd movie-app
+npm install
